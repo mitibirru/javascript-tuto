@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mitibirru/javascript-tuto/issues"
   },
-  "homepage": "https://github.com/mitibirru/javascript-tuto#readme"
+  "homepage": "https://github.com/mitibirru/javascript-tuto#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
